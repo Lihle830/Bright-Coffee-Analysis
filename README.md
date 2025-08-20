@@ -16,7 +16,7 @@ Identifying the products that are selling the most
 Analysing each and every store sales performance by location to find the low and high performing outlets.
 Audit the purchasing patterns of the customers
 Assess promotions or discounts benefits, if they are applicable 
-Recognise the opportunities to grow revenue and reduce costs 
+Recognise the opportunities to grow revenue and reduce costs.
 
 # Tools & Templates to Use
 Excel or Google Sheets: For initial data cleaning and pivot tables.
