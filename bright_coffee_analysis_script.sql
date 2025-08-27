@@ -1,4 +1,4 @@
-SELECT*,
+SELECT
 
 ---------Data concerption
 
@@ -20,12 +20,6 @@ CASE
     WHEN DAYNAME(TO_DATE(transaction_date)) NOT IN ('Sat','Sun') THEN 'Morning'
     ELSE 'Weekend'
     END AS day_type,
-
-CASE 
-    WHEN unit_price < 10 THEN 'Low Price'
-    WHEN unit_price BETWEEN 10 AND 25 THEN 'Medium Price'
-    ELSE 'High Price'
-    END AS price_bucket,
     
 ROUND(SUM(transaction_qty * unit_price)) AS total_revenue,
 
@@ -37,14 +31,14 @@ COUNT(DISTINCT store_id)AS unique_stores,
 
 ------Categories
 
+store_location,
 product_category,
-product_type,
 product_detail,
-store_location
-
-
+product_type,
 
 FROM BRIGHTCOFFEE_SHOP.SALES_DATA.STORES
 
 GROUP BY ALL;
+
+
 
