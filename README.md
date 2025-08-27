@@ -25,6 +25,7 @@ The aim of the Bright Coffee Shop Sales Analysis project is to supply the new CE
 -Presentation software: PowerPoint or Google Slides with visuals and summary points.
 
 #Summary
+The business is heavily dependent on morning traffic. Morning is clearly the most profitable period, contributing more than half of total revenue. Nighttime performs the worst only 4.5% of total revenue.
 
 
 
