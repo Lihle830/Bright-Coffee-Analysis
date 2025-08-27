@@ -17,7 +17,7 @@ CASE
     END AS time_bucket,
 
 CASE 
-    WHEN DAYNAME(TO_DATE(transaction_date)) NOT IN ('Sat','Sun') THEN 'Morning'
+    WHEN DAYNAME(TO_DATE(transaction_date)) NOT IN ('Sat','Sun') THEN 'Weekday'
     ELSE 'Weekend'
     END AS day_type,
     
