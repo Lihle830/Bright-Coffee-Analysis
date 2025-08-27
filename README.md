@@ -20,9 +20,10 @@ The aim of the Bright Coffee Shop Sales Analysis project is to supply the new CE
 
 # Tools & Templates to Use
 -Excel or Google Sheets: For initial data cleaning and pivot tables.
--Power BI or Tableau: For interactive dashboards and visual storytelling.
--Python (Pandas, Matplotlib, Seaborn): For advanced analysis if comfortable.
--Presentation software: PowerPoint or Google Slides with visuals and summary points.
+-Looker Studio: For interactive dashboards and visual storytelling.
+-Snowflake: For Coding.
+-Presentation software: PowerPoint or Canva Slides with visuals and summary points.
+-Miro: For planning
 
 #Summary
 The business is heavily dependent on morning traffic. Morning is clearly the most profitable period, contributing more than half of total revenue. Nighttime performs the worst only 4.5% of total revenue.
