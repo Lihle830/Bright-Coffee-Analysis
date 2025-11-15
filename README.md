@@ -19,29 +19,29 @@ The aim of the Bright Coffee Shop Sales Analysis project is to supply the new CE
 
 
 ### Project Objectives
--Inspect all transactional data is gathered
--Understanding overall sales performance and trends over time.
--Analyse overall on sales performance and trends
--Identifying the products that are selling the most
--Analysing each and every store sales performance by location to find the low and high performing outlets.
--Audit the purchasing patterns of the customers
--Assess promotions or discounts benefits, if they are applicable 
--Recognise the opportunities to grow revenue and reduce costs.
+- Inspect all transactional data is gathered
+- Understanding overall sales performance and trends over time.
+- Analyse overall on sales performance and trends
+- Identifying the products that are selling the most
+- Analysing each and every store sales performance by location to find the low and high performing outlets.
+- Audit the purchasing patterns of the customers
+- Assess promotions or discounts benefits, if they are applicable 
+- Recognise the opportunities to grow revenue and reduce costs.
 
 ### Tools & Technologies
--Excel Sheets: For initial data cleaning and pivot tables.
--Google Looker Studio: For interactive dashboards and visual storytelling.
--Snowflake: For Coding.
--Presentation software: PowerPoint & Canva Slides with visuals and summary points.
--Miro: For planning
+- Excel Sheets: For initial data cleaning and pivot tables.
+- Google Looker Studio: For interactive dashboards and visual storytelling.
+- Snowflake: For Coding.
+- Presentation software: PowerPoint & Canva Slides with visuals and summary points.
+- Miro: For planning
 
 ### Key Insight
 
--Highest revenue generated during weekends and evenings
--Top products and categories contribute most to overall sales
--Certain stores outperform others in specific product categories
--Revenue trends fluctuate by day type and time bucket
--Peak sales hours identified for inventory and staffing planning
+- Highest revenue generated during weekends and evenings
+- Top products and categories contribute most to overall sales
+- Certain stores outperform others in specific product categories
+- Revenue trends fluctuate by day type and time bucket
+- Peak sales hours identified for inventory and staffing planning
 
 
 
