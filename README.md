@@ -45,16 +45,16 @@ The aim of the Bright Coffee Shop Sales Analysis project is to supply the new CE
 
 📁 Content description:
 Data
-Raw and processed datasets (.csv) along with the case study.
+ Raw and processed datasets (.csv) along with the case study.
 Excel Charts
-Exported graphs and pivot charts for data analysis.
+ Exported graphs and pivot charts for data analysis.
 Dashboard
-PDF of dashboard created on PowerBI.
+ PDF of dashboard created on PowerBI.
 Miro Mapping
-Planned and designed workflows for the project.
+ Planned and designed workflows for the project.
 Slides Presentation
-Project slides for presentation.
+ Project slides for presentation.
 SQL Scripts
-Scripts for cleaning and aggregating viewership data.
+ Scripts for cleaning and aggregating viewership data.
 README.md Project overview and documentation
 
