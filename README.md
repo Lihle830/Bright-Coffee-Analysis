@@ -5,11 +5,11 @@ The motive of the Bright Coffee Shop Sales Analysis project is to supply busines
 ### Project Overview
 This dataset contains detailed transactional sales data across multiple stores and product categories. It is designed for analytics, reporting, and business intelligence, enabling insights into revenue, sales trends, product performance, and store activity.
 
--Sales Analytics: Track revenue, number of sales, and product performance.
--Trend Analysis: Analyze trends by day, month, or time bucket.
--Store Insights: Compare store performance by location.
--Product Insights: Identify top-performing products and categories.
--Dashboarding: Create visualizations in Looker Studio for executive reporting.
+- Sales Analytics: Track revenue, number of sales, and product performance.
+- Trend Analysis: Analyze trends by day, month, or time bucket.
+- Store Insights: Compare store performance by location.
+- Product Insights: Identify top-performing products and categories.
+- Dashboarding: Create visualizations in Looker Studio for executive reporting.
 
 ### Problem Statement
 The Coffee shop has been having operational challenges, that was caused by Staffing issues that lead to difficulties in meeting business demand. The staff struggle during peak hour times, leading to longer wait times, reduced service levels, and lost sales opportunities. Having issues of staff leads to errors, delays, and lower quality of work that affect sales and revenue.This lead to the businesses taking a decision to fire the CEO. 
